@@ -39,8 +39,8 @@ public class IndicatorData {
     @AllArgsConstructor
     public static class Country {
 
-        private String id;
-        private String value;
+        private String code;
+        private String name;
 
     }
 
